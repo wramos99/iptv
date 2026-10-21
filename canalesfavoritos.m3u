@@ -7,6 +7,8 @@ https://dmbgaz4xf6jyh.cloudfront.net/live-stream-mp/d3sukefr3rfgv8/55e029f2ca634
 5d7d1e52d89d18e7b847cb94bddad.cdn.broadpeak.io/out/v1/03d8d938b87b4b3981b7fdfa6a00a9b1/index_audio_8_0_init.mp4?m=1788263545
 #EXTINF:-1 tvg-logo="https://telepacifico.com/templates/yootheme/cache/1a/Logo_Vertical-1a5ce098.webp" group-title="MÁS VISITADOS", Telepacifico (1080p) 
 https://live-edge-par-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-telepacifico/index.m3u8
+#EXTINF:-1 tvg-logo="http://canalinstitucional.tv/themes/custom/ci_redesign/images/logo-ci.png" group-title="MÁS VISITADOS", Canal Institucional (1080p) 
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/6/61/DISNEYCHANNEL-2025.webp/revision/latest?cb=20250912180222" group-title="INFANTILES", Disney Channel Latin America Center (1080p)
 http://181.78.8.199:8000/play/a0dn/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/6/61/DISNEYCHANNEL-2025.webp/revision/latest?cb=20250912180222" group-title="INFANTILES", Disney Channel Latin America Center (1080p)
