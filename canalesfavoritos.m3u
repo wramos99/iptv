@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://ipuctv.org.co/wp-content/uploads/2023/12/1.1.1.png" group-title="CRISTIANOS", IPUC TV
 https://canal.ipuctv.com/live/6KL4pOEWRrQZsaBMOrGUouoXk282/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6m56pP8HRDZ7BKn81nXKIgCf8GB-RvIznyqS2q9Plyw&s=10" group-title="MÁS VISITADOS", Caracol TV (1080p)
-http://138.121.15.230:9002/CARACOL/index.m3u8
+https://co-e1-p-e-aa1.cdn.mdstrm.com/live-stream-gdai/574463697b9817cf0886fc17/linear/hls/pa/event/jMfhk4r5R2y5gggPm8gjtw/stream/112eadcc-310d-4480-b937-23e805c4a23b:DLS/variant/a4138ad4d03c48cc9e4b6d94f8953a6c/bandwidth/2670800.m3u8?aid=574462d1cab0f4d50866f001&uid=u9GroxnVD2vX38H85TkbWie96IODiGHK&sid=u6zsr3QVOjK6bBhIiQxTW3I9d4zmAP13&pid=tHV0motoNeJtKqxkNfVwZr8A539DRNst&pid_dvr=e2oZNQuJy48jthqU4lvwjqN9WWzPc9Nb&ref=https%3A%2F%2Fwww.caracoltv.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=vq24AtPyZSl9f1GF0djy8UqyuXobjBlZgneUf6ZBEsaqIN5sdOwQGNcHJIDN9u818BBSemojbi6&adInsertionGoogleStreamId=112eadcc-310d-4480-b937-23e805c4a23b%3ADLS&CMCD=cid%3D%22574463697b9817cf0886fc17%22%2Cmtp%3D2700%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22tHV0motoNeJtKqxkNfVwZr8A539DRNst%22%2Csu&es=co-e1-p-e-aa1.cdn.mdstrm.com&ote=1792693169224&ot=v2ysztdpC4OQI5Ry3aXQow&proto=https&pz=us
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/AppCanalRCN.png/revision/latest?cb=20250413013713" group-title="MÁS VISITADOS", Canal RCN (1080p) 
 http://138.121.15.230:9002/RCN/index.m3u8
 #EXTINF:-1 tvg-logo="https://telepacifico.com/templates/yootheme/cache/1a/Logo_Vertical-1a5ce098.webp" group-title="MÁS VISITADOS", Telepacifico (1080p) 
