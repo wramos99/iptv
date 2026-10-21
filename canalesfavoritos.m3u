@@ -3,7 +3,8 @@
 https://canal.ipuctv.com/live/6KL4pOEWRrQZsaBMOrGUouoXk282/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6m56pP8HRDZ7BKn81nXKIgCf8GB-RvIznyqS2q9Plyw&s=10" group-title="MÁS VISITADOS", Caracol TV (1080p)
 http://138.121.15.230:9002/CARACOL/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/AppCanalRCN.png/revision/latest?cb=20250413013713" group-title="MÁS VISITADOS", Canal RCN (1080p) http://138.121.15.230:9002/RCN/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/AppCanalRCN.png/revision/latest?cb=20250413013713" group-title="MÁS VISITADOS", Canal RCN (1080p)
+http://138.121.15.230:9002/RCN/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/6/61/DISNEYCHANNEL-2025.webp/revision/latest?cb=20250912180222" group-title="INFANTILES", Disney Channel Latin America Center (1080p)
 http://181.78.8.199:8000/play/a0dn/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/6/61/DISNEYCHANNEL-2025.webp/revision/latest?cb=20250912180222" group-title="INFANTILES", Disney Channel Latin America Center (1080p)
