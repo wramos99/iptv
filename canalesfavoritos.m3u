@@ -16,3 +16,5 @@ http://181.78.8.199:8000/play/a0dn/index.m3u8
 http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/6/61/DISNEYCHANNEL-2025.webp/revision/latest?cb=20250912180222" group-title="INFANTILES", Disney Channel (United States) HD East (720p)
 http://4.30.180.36:8420/disneychannel/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/nickelodeon-7-logo-png-transparent.png" group-title="INFANTILES", Nickelodeon Latinoamerica
+http://103.151.60.162:2122/play/a017/index.m3u8?hls
