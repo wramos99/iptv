@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://ipuctv.org.co/wp-content/uploads/2023/12/1.1.1.png" group-title="CRISTIANOS", IPUC TV
 https://canal.ipuctv.com/live/6KL4pOEWRrQZsaBMOrGUouoXk282/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCLjJH9d2BZFGm4PPQRpq0eoOq56mYTf_V_L_ohLQG5dlAEKbnYugmuC0&s=10" group-title="CRISTIANOS", Radio IPUC
+https://radiohd4.streaminghd.co:8190/stream?nocache=1792618687318
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/AppCanalRCN.png/revision/latest?cb=20250413013713" group-title="MÁS VISITADOS", Canal RCN (1080p) 
 5d7d1e52d89d18e7b847cb94bddad.cdn.broadpeak.io/out/v1/03d8d938b87b4b3981b7fdfa6a00a9b1/index_audio_8_0_init.mp4?m=1788263545
 #EXTINF:-1 tvg-logo="https://telepacifico.com/templates/yootheme/cache/1a/Logo_Vertical-1a5ce098.webp" group-title="MÁS VISITADOS", Telepacifico (1080p) 
